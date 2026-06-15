@@ -1,170 +1,112 @@
 # Easy Party
 
-Easy Party é uma plataforma inteligente de planejamento de eventos e gerenciamento de convidados criada para transformar a organização de festas e comemorações em um processo simples, guiado e eficiente.
+Um aplicativo inteligente e guiado que transforma o estresse de planejar eventos em um fluxo de poucos minutos.
 
-Em vez de alternar entre planilhas, aplicativos de mensagens, anotações e ferramentas de convite, o anfitrião pode planejar, organizar e compartilhar seu evento em um único lugar.
+Easy Party centraliza planejamento, orçamento, convidados, RSVP, cronograma e compartilhamento do evento em uma única experiência.
+
+**Planeje. Organize. Publique.**
 
 ---
 
 ## O Problema
 
-Organizar um evento normalmente exige o uso de diversas ferramentas:
+Organizar uma festa ou evento normalmente exige o uso de diversas ferramentas diferentes:
 
-- Aplicativos de mensagens para comunicação
-- Planilhas para orçamento
-- Anotações para listas e tarefas
-- Ferramentas separadas para convites e confirmações
+* Planilhas para orçamento
+* Aplicativos de mensagens para convidados
+* Anotações para listas e tarefas
+* Ferramentas separadas para convites e confirmações
 
 Esse processo gera retrabalho, esquecimentos, dificuldade de acompanhamento e perda de controle sobre os custos.
+
+Muitas pessoas acabam gastando mais tempo organizando do que aproveitando o próprio evento.
 
 ---
 
 ## A Solução
 
-Easy Party centraliza toda a experiência de planejamento de eventos em uma única plataforma.
+Easy Party resolve a sobrecarga mental do planejamento de eventos através de uma jornada guiada que acompanha o anfitrião desde a ideia inicial até a publicação do evento.
 
-O sistema foi projetado para pessoas que desejam organizar festas ou comemorações, mas se sentem sobrecarregadas pela quantidade de tarefas, cálculos e decisões necessárias.
+Tudo acontece em um único lugar:
 
-### Nosso objetivo
+✅ Planejamento Guiado
 
-> Permitir que o anfitrião passe menos tempo organizando e mais tempo aproveitando o evento.
+✅ Controle de Orçamento
 
----
+✅ Checklists Inteligentes
 
-# Como Funciona
+✅ Gerenciamento de Convidados
 
-O Easy Party foi estruturado em três etapas principais:
+✅ RSVP
 
-## 1. Planejar
+✅ Cronograma
 
-Fluxo guiado para construção do evento.
+✅ Página Pública do Evento
 
-O anfitrião responde perguntas sobre:
-
-- Tipo de evento
-- Quantidade de convidados
-- Alimentação
-- Bebidas
-- Estrutura
-- Decoração
-- Orçamento
-- Lista de convidados
-
-Com base nessas respostas, o sistema cria automaticamente uma estrutura inicial de planejamento.
+✅ Convites Compartilháveis
 
 ---
 
-## 2. Organizar
+## Como Funciona
+
+### 1. Planejar
+
+O sistema ajuda o anfitrião a construir o evento passo a passo, sem precisar começar com uma tela vazia.
+
+O usuário informa detalhes como:
+
+* Tipo de evento
+* Quantidade de convidados
+* Alimentação
+* Bebidas
+* Estrutura
+* Decoração
+* Orçamento
+
+Com base nessas informações, o sistema cria automaticamente uma estrutura inicial de planejamento.
+
+---
+
+### 2. Organizar
 
 Durante esta etapa o anfitrião pode:
 
-- Gerenciar convidados
-- Controlar orçamento
-- Editar checklists
-- Registrar despesas
-- Criar cronograma
-- Configurar detalhes do evento
-- Personalizar a página pública
+* Gerenciar convidados
+* Controlar orçamento
+* Editar checklists
+* Registrar despesas
+* Criar cronograma
+* Configurar detalhes do evento
+* Personalizar a experiência dos convidados
 
 Todas as informações permanecem privadas durante o planejamento.
 
 ---
 
-## 3. Publicar
+### 3. Publicar
 
 Quando estiver pronto, o evento pode ser publicado.
 
-Uma página compartilhável é criada para os convidados, contendo:
+Uma página compartilhável é criada para os convidados, reunindo em um único local:
 
-- Informações do evento
-- RSVP
-- Cronograma
-- Álbum de fotos
-- Playlist
-- Comentários
-- Localização
-- Informações importantes
-
----
-
-# Principais Funcionalidades
-
-## Planejamento Guiado
-
-Ajuda o anfitrião a tomar decisões passo a passo sem precisar começar do zero.
-
-## Checklists Inteligentes
-
-Listas automáticas geradas conforme o perfil e características do evento.
-
-## Controle de Orçamento
-
-Acompanhamento financeiro em tempo real durante o planejamento.
-
-## Gerenciamento de Convidados
-
-Controle de lista de convidados e confirmações de presença (RSVP).
-
-## Cronograma do Evento
-
-Organização das atividades do evento em uma linha do tempo simples e personalizável.
-
-## Página Pública do Evento
-
-Uma experiência dedicada aos convidados após a publicação.
-
-## Convite Compartilhável
-
-Compartilhamento de convites por link com visual personalizado.
-
-## Álbum Colaborativo
-
-Os convidados podem enviar fotos diretamente para o evento.
-
-## Integração com Spotify
-
-Inclusão de playlists para complementar a experiência.
-
-## Suporte Bilíngue
-
-Disponível em:
-
-- Português
-- Inglês
+* Informações do evento
+* RSVP
+* Cronograma
+* Álbum de fotos
+* Playlist
+* Comentários
+* Localização
+* Informações importantes
 
 ---
 
-# Princípios de Produto
-
-## Planejamento Guiado
-
-O usuário não deve precisar começar com uma tela vazia.
-
-O sistema orienta cada etapa do processo.
-
-## Planejamento Antes da Publicação
-
-Todo o trabalho acontece primeiro em um ambiente privado.
-
-O anfitrião decide quando compartilhar o evento.
-
-## Continuidade da Experiência
-
-Os dados são persistidos para que o usuário possa interromper e continuar o planejamento a qualquer momento.
-
-## Centralização
-
-Menos ferramentas, menos retrabalho e menos complexidade.
-
----
-
-# Principais Telas
+# Capturas de Tela
 
 ## Landing Page
 
 ![Landing Page](images/landing-page-1.png)
 
-Apresentação da proposta de valor do produto.
+A apresentação da proposta de valor do produto.
 
 ---
 
@@ -172,86 +114,130 @@ Apresentação da proposta de valor do produto.
 
 ![Dashboard](images/dashboard.png)
 
-Área principal para gerenciamento dos eventos.
+Área principal para gerenciamento e acompanhamento dos eventos.
 
 ---
 
 ## Planejamento Guiado
 
+### Informações do Evento
+
 ![Planejamento](images/planning-step-1.png)
 
-Fluxo estruturado para criação e organização do evento.
+### Perfil do Evento
+
+![Planejamento](images/planning-step-2.png)
+
+O fluxo guiado reduz a complexidade e ajuda o anfitrião a tomar decisões sem precisar começar do zero.
 
 ---
 
-## Página do Evento — Anfitrião
+## Cálculos Inteligentes
+
+![Cálculos Inteligentes](images/planning-step-4.png)
+
+O sistema gera automaticamente estimativas de comida e bebida com base nas características do evento e na quantidade de convidados.
+
+Essa funcionalidade ajuda a reduzir desperdícios e simplifica uma das partes mais trabalhosas do planejamento.
+
+---
+
+## Organização do Evento
+
+![Organização](images/planning-step-7.png)
+
+Gerenciamento centralizado de tarefas, orçamento, convidados e informações importantes do evento.
+
+---
+
+## Área do Anfitrião
 
 ![Evento Anfitrião](images/host-event-page-1.png)
 
-Experiência completa de gerenciamento do evento.
-
----
-
-## Página do Evento — Convidado
-
-![Evento Convidado](images/guest-event-page-1.png)
-
-Página pública utilizada pelos participantes.
+Experiência completa para gerenciamento do evento, convidados e compartilhamento.
 
 ---
 
 ## Convite Compartilhável
 
-![Mini Convite](images/invitation-preview.png)
+![Convite](images/invitation-preview.png)
 
-Visual de compartilhamento utilizado para divulgação do evento.
+Convite personalizado compartilhável por link e aplicativos de mensagem.
 
 ---
 
-# Arquitetura da Aplicação
+## Experiência do Convidado
 
-| Área | Descrição |
-|--------|------------|
-| Planejamento | Criação guiada do evento |
-| Organização | Gerenciamento de convidados, orçamento e tarefas |
-| Publicação | Página pública para convidados |
-| RSVP | Controle de confirmações |
-| Álbum | Compartilhamento de fotos |
-| Cronograma | Organização da programação |
-| Personalização | Temas e identidade visual |
+![Evento Convidado](images/guest-event-page-1.png)
+
+![Evento Convidado](images/guest-event-page-2.png)
+
+Página pública dedicada aos convidados com informações centralizadas do evento.
+
+---
+
+# Principais Funcionalidades
+
+### Planejamento Guiado
+
+Fluxo estruturado para auxiliar a criação do evento.
+
+### Checklists Inteligentes
+
+Listas automáticas adaptadas ao perfil do evento.
+
+### Controle de Orçamento
+
+Acompanhamento financeiro durante todo o planejamento.
+
+### Gerenciamento de Convidados
+
+Controle da lista de convidados e confirmações de presença.
+
+### RSVP
+
+Gerenciamento simplificado de respostas dos convidados.
+
+### Cronograma do Evento
+
+Planejamento e organização das atividades do evento.
+
+### Convite Compartilhável
+
+Compartilhamento fácil através de links personalizados.
+
+### Página Pública do Evento
+
+Experiência dedicada aos participantes.
+
+### Álbum Colaborativo
+
+Compartilhamento de fotos pelos convidados.
+
+### Integração com Spotify
+
+Adicione playlists para complementar a experiência do evento.
+
+### Suporte Bilíngue
+
+* Português
+* Inglês
 
 ---
 
 # Stack Tecnológica
 
-| Camada | Tecnologia |
-|----------|------------|
-| Frontend | React 19 |
-| Linguagem | TypeScript |
-| Build Tool | Vite |
-| Estilização | Tailwind CSS v4 |
-| Animações | Framer Motion |
-| Roteamento | Wouter |
-| Autenticação | Supabase Auth |
+| Camada         | Tecnologia            |
+| -------------- | --------------------- |
+| Frontend       | React 19              |
+| Linguagem      | TypeScript            |
+| Build Tool     | Vite                  |
+| Estilização    | Tailwind CSS v4       |
+| Animações      | Framer Motion         |
+| Roteamento     | Wouter                |
+| Autenticação   | Supabase Auth         |
 | Banco de Dados | PostgreSQL (Supabase) |
-| Storage | Supabase Storage |
-
----
-
-# Persistência de Dados
-
-O sistema mantém e sincroniza informações relacionadas a:
-
-- Eventos
-- Convidados
-- RSVP
-- Orçamento
-- Checklists
-- Cronograma
-- Fotos
-- Configurações
-- Personalizações visuais
-- Playlists
+| Armazenamento  | Supabase Storage      |
 
 ---
 
@@ -259,30 +245,16 @@ O sistema mantém e sincroniza informações relacionadas a:
 
 🚧 Em desenvolvimento ativo
 
-O Easy Party está evoluindo continuamente através de ciclos de testes, feedback de usuários e melhorias de experiência.
+O Easy Party está evoluindo continuamente através de testes, feedback de usuários e melhorias de experiência.
 
 Novas funcionalidades, refinamentos de UX e melhorias visuais são adicionados regularmente.
 
 ---
 
-# Aprendizados
+# Direitos Autorais
 
-O projeto está sendo desenvolvido seguindo princípios de:
+Este repositório contém documentação pública do projeto Easy Party.
 
-- Lean Startup
-- Desenvolvimento Iterativo
-- Descoberta de Clientes
-- Feedback Contínuo
-- Evolução Baseada em Dados
-
-Uma das principais lições obtidas durante o desenvolvimento:
-
-> Grandes produtos não nascem prontos. Eles evoluem através de aprendizado contínuo, validação e iteração.
-
----
-
-# Licença
-
-Este repositório contém documentação pública do projeto.
+O código-fonte da aplicação é privado.
 
 Todos os direitos relacionados ao produto, identidade visual, regras de negócio e implementação são reservados ao autor.
